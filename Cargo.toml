@@ -2,6 +2,8 @@
 name = "lau-derived-topos"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+repository = "https://github.com/SuperInstance/lau-derived-topos"
 description = "Elementary topos theory + derived functors for agent knowledge systems"
 
 [dependencies]
