@@ -1,0 +1,9 @@
+[package]
+name = "lau-derived-topos"
+version = "0.1.0"
+edition = "2021"
+description = "Elementary topos theory + derived functors for agent knowledge systems"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
